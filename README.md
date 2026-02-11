@@ -1,6 +1,6 @@
 # Titanic Dataset - Building and assessing a supervised Machine Learning model
 
-Here I am using Kaggle's Titanic dataset for personal education. I intend to learn hands-on machine learning frameworks with Python for training and predicting (supervised labelled ML). Personal training only, expect low standards on aesthetics or directory structure. 
+Here I am using Kaggle's Titanic dataset for personal education. I intend to hands-on learn how to build a simple machine learning model through popular frameworks on Python. The goal is to train the model and then predict survival of passangers not included in the training file (supervised/labelled ML). The project is small and for personal training only, please expect low standards on aesthetics or directory structure. 
 
 Dataset source and details at https://www.kaggle.com/competitions/titanic/data
 
